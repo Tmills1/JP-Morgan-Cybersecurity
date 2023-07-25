@@ -1,1 +1,1 @@
-# JP-Morgan-Cybersecurity-Virtul-Cert
+# JP-Morgan-Cybersecurity-Virtual-Cert
